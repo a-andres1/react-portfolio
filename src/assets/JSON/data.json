@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Feed Me™",
+        "pics": "../../Assets/feed-me.png",
+        "alt": "screenshot of my project",
+        "explanation": "For this project I worked with two other group members. With our app, we tried to help people complete the arduous task of picking a restaurant for dinner. Start by picking your cuisine, enter your address, enter your friends address, and Feed Me will find a restaurant for you.",
+        "repo": "https://github.com/a-andres1/feed-me-tm",
+        "deploy": "https://a-andres1.github.io/feed-me-tm/"
+
+    },
+
+    {
+        "title": "Daily Planner",
+        "pics": "./Assets/CalendarApp.png",
+        "alt": "screenshot of my project",
+        "explanation": "For this project I set myself the task of generating everything through jQuery. I knew that everything in this project could be completed using jQuery, it would just take a little more thinking. I'm proud of completing this with minimal HTML.",
+        "repo": "https://github.com/a-andres1/fun-time-calendar-app",
+        "deploy": "https://a-andres1.github.io/fun-time-calendar-app/"
+
+    },
+
+    {
+        "title": "Weather Dashboard",
+        "pics": "./Assets/weatherchecker.png",
+        "alt": "screenshot of my project",
+        "explanation": "For this project I worked with the OpenWeather API to create a dashboard to check the weather in any given city.",
+        "repo": "https://github.com/a-andres1/weather-checker",
+        "deploy": "https://a-andres1.github.io/weather-checker/"
+
+    },
+    {
+        "title": "OUTWrite",
+        "pics": "./Assets/OUTwrite.gif",
+        "alt": "screenshot of my project",
+        "explanation": "For this project I worked with a team to create a collaborative storytelling website, with login functionality and our own database.",
+        "repo": "https://github.com/a-andres1/outWrite",
+        "deploy": "https://strawberry-crisp-31516.herokuapp.com/"
+
+    }
+]
